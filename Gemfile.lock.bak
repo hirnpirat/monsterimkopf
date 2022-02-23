@@ -75,7 +75,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 4.2, >= 4.2.1)
+  jekyll (~> 4.0)
   jekyll-last-modified-at!
   nokogiri
   webrick (~> 1.7)
