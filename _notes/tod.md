@@ -1,5 +1,5 @@
 ---
-title: Mediationen über den Tod
+title: Meditationen über den Tod
 ---
 
 Der Tod ist die beste Freundin des Lebens.  
@@ -11,6 +11,5 @@ Im Angesicht des Todes, hab Spaß!
 Ich weigere mich mein Leben in Angst vor dem Leben zu leben. 
 
 Die Zeit heilt alle Wunden.  Die Zeit zerstört alles.  Auch die Wunden.  
-
 
 

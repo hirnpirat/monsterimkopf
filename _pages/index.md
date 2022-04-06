@@ -16,6 +16,12 @@ Um dich hier ein wenig orientieren und die Inhalte etwas einordnen zu können sc
 <br>
  <span style="font-weight: bold">[[via negativa]]</span> 
 <br>
+ <span style="font-weight: bold">[[antifragilität]]</span> 
+<br>
+ <span style="font-weight: bold">[[80/20]]</span> 
+</p>
+
+<!--
  <span style="font-weight: bold">[[quo vadis?]]</span> 
 <br>
  <span style="font-weight: bold">[[memento mori]]</span> 
@@ -24,17 +30,13 @@ Um dich hier ein wenig orientieren und die Inhalte etwas einordnen zu können sc
 <br>
  <span style="font-weight: bold">[[sympatheia]]</span> 
 <br>
- <span style="font-weight: bold">[[antifragilität]]</span> 
-<br>
  <span style="font-weight: bold">[[Hormensis]]</span> 
 <br>
  <span style="font-weight: bold">[[wissenwollenwagenschweigen]]</span> 
 <br>
  <span style="font-weight: bold">[[DAOt]]</span> 
 <br>
- <span style="font-weight: bold">[[80/20]]</span> 
-</p>
-
+-->
 
 
 <style>

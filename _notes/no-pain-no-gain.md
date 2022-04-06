@@ -1,4 +1,5 @@
 ---
+title: No Pain, No Gain?
 ---
 
 Zum Sixpack in sechs Wochen. Lauf deinen besten Marathon in vier Wochen. Mit diesem Programm wirst du garantiert schnell Fett verbrennen und Muskeln aufbauen. 
@@ -12,7 +13,8 @@ So, dass ewige Mantra.
 
 Doch stimmt das wirklich? 
 
-Lass uns die Bereiche Kraft- und Ausdauersport mal etwas genauer Anschauen. Und dabei historisch den Einfluss von Marketing auf die öffentliche Wahrnehmung von Fitness und dessen Einbindung in (Teile) unserer Gesellschaft.
+Lass uns die Bereiche Kraft- und Ausdauersport mal etwas genauer Anschauen.  
+Und dabei historisch den Einfluss von Marketing auf die öffentliche Wahrnehmung von Fitness und dessen Einbindung in (Teile) unserer Gesellschaft.
 Und zu guter Letzt welche Botschaften damit vermittelt werden und welchen Einfluss das auf die Psyche und unser Training bzw. unseren Um- und Zugang mit und zum Training allgemein hat. 
 
 Ein langsames, anstrengendes Jahrzehnt um etwas überragendes zu erreichen klingt nicht sexy und lässt sich schlecht verkaufen. 
@@ -33,6 +35,11 @@ Doch es bleibt schwierig nicht zu glauben, dass es ein Geheimnis gibt.
 
 ---- 
 Eine bessere Fitness öffnet die Tür zu mehr Möglichkeiten
+Die erhöhte Fitness oder Leistungsfähigkeit durch Training, dient doch letztendlich dazu, mehr von den Sachen machen zu können (oder überhaupt erst in der Lage dazu zu sein), was dir Spaß macht.  Und das auch noch leichter.  
+Bergwandern, ohne dass man ständig an seinem Limit ist oder die Woche danach sich mit Muskelkater rumschlagen muss macht einfach deutlich mehr (oder überhuapt erst) Spaß. 
+Spontan mit Freunden einen 10k Lauf machen zu können aus einer Bier-Sekt oder Kaffee-Laune heraus.  
+Nicht bei jedem Stückchen Kuchen überlegen zu müssen, wieviel davon auf den Hüften hängen bleibt.  
+Fitness ist letzlich Freiheit.  
 
 Ein Irrglaube dass mehr immer auch mehr ist. 
 
@@ -57,5 +64,4 @@ Kommerzialisierung des Fitness Studios (Geräte sind nicht deswegen da, weil sie
 
 Kraft als Fertigkeit und nicht nur eine physiologische Eigenschaft. 
 
-----
 

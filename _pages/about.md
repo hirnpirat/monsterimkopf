@@ -21,14 +21,17 @@ An SEO wurde kein Gedanke verschwendet.
 Es gibt keinen Newsletter, keinen Teilen Button, keine Kommentarfunktion.  
 Kein Marketingkonzept (wenn wir in dieser Ecke hier überhaupt in diesen Kategorien denken wollen, dann ist es viel mehr ein [[Anti-Marketing]]-Konzept).  
 Es gibt keine Cookies, kein Tracking, kein A/B-Testing, keine Content-Performance-Analyse oder sonstige Auswertung des Publikumsverhaltens.  
-Hier gibt es keine "Daumen hochs" oder runters, keine Buttons, die dich anflehen, mein Zeuchs doch bitte, bitte auch in deiner Bubble zu teilen.  (Aber ich werde dich auch nicht davon abhalten).  
-Das soll hier keine Bühne für mich sein, daher steht mein Name auch nicht im Vordergrund.  Ich schreibe hier hauptsächlich für mich.  So kann ich ohne Filter schreiben.  
+Hier gibt es keine "Daumen hochs" oder runters, keine Buttons, die dich anflehen, mein Zeuchs doch bitte, bitte auch in deiner Bubble zu teilen.  
+Das soll hier keine Bühne für mich sein, daher steht mein Name oder meine Person an sich auch nicht im Vordergrund.  
+
+So ist das hier geschriebene primär für mich, ich denke am besten schreibend.  Du, lieber Leser, bist aber herzlich eingeladen diesem Denkrpozess zu folgen.  
+
 
 > Jeder, der auf der Bühne steht, nimmt eine Rolle ein
 >
 > ~ Serdar Somuncu 
 
-Und diese Seite hier läuft immer Gefahr zu einer Bühne zu werden.  
+Ein öffentlicher Auftritt läuft aber immer Gefahr zu einer Bühne zu werden.  
 Alles oben genannte dient auch dazu dies zu vermeiden.  
 
 Die Texte erheben keinen Anspruch auf Vollständigkeit oder Wahrheit oder inhaltliche Richtigkeit.  
@@ -38,15 +41,20 @@ Die Inhalte können jederzeit umgeschrieben, ergänzt oder verändert werden ode
 
 Inhalte können und werden widersprüchlich sein.  
 
+Geh am besten einfach immer davon aus, dass alles was hier steht erstunken und erlogen ist.  
+
 **Was du hier findest sind:**  
 
 Notizen, meine Küchenphilosophischen Ausführungen mit denen ich versuche mir die Welt erklär- und ertragbarer zu machen.  
-Tiraden über Themen, die mich aufregen oder über die ich mich einfach nur lusitg machen will (diese sagen meistens mehr über mich und meinen aktuellen Gemütszustand als über das Sujet der Tirade aus).  
+Tiraden über Themen, die mich aufregen oder über die ich mich einfach nur lustig machen will (diese sagen meistens mehr über mich und meinen aktuellen Gemütszustand als über das Sujet der Tirade aus).  
 
 Die Themen sind so vielfältig oder einseitig wie meine aktuellen Interessen.  
 Die Texte sind zumeist auf deutsch oder englisch.  
 
-Die Textform der Wahl ist Hypertext, dass heißt es gibt keine klassische Navigation.  Keine lineare oder gar chronologische Struktur.  
+Hier ist alles Hypertext, dass heißt es gibt keine klassische Navigation.  Keine lineare oder gar chronologische Struktur.  
+Kaum einer denkt uns wirklich linear oder chronologisch.  Wir denken vielmehr assoziativ.  Ein Gedanke kann zu einem anderen aus einem vollkommen fremden Themengebiet führen.  
+Das ist mein Versuch dass hier abzubilden.  
+So kann man die zugrundeliegenden Prinzipien frei von thematischen Grenzen besser erkennen.  
 Links, die die Seite verlassen erkennst du an einem kleinen Pfeilsymbol wie z.B. hier [Wikipedia](https://www.wikipedia.de/)
 
 Im heutigen Internet, dem großen weltweiten Netz, ist Kommunikation zwar allgegenwärtig, doch eine echte Konversation ein radikaler Akt.  

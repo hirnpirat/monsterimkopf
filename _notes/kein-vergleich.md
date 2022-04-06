@@ -1,7 +1,7 @@
 ---
+title: Kein Vergleich
 ---
 
-# Kein Vergleich
 
 Die "Fitness" erscheint uns als das Licht im dunklen Tunnel unseres Lebens als träge, erschöpfte und kranke Wesen.  
 
