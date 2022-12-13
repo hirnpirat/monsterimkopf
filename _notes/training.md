@@ -22,7 +22,7 @@ Man kann schon viel erreichen, wenn man sich darauf fokussiert schlechtes oder f
 
 Das Pareto-Prinzip [[80/20]] lässt sich wunderbar auch hier anwenden.  Mach die Basics konsequent richtig, lass den unnützen Blödsinn weg und du kommst wahrscheinlich entspannter weiter als die meisten anderen, die nach dem richtigen Trick, Life-Hack, der Abkürzung suchen.  
 
-"Stark sein, damit nützlich ist" dieser Gedanke vom alten Georges stammt aus einer anderen Zeit und er meinte mit der "Nützlichkeit" sicher etwas anderes, als ich.  
+"Stark sein, damit man nützlich sein kann" dieser Gedanke vom alten Georges stammt aus einer anderen Zeit und er meinte mit der "Nützlichkeit" sicher etwas anderes, als ich.  
 Aber dennoch, auch in der aktuellen Zeit, mit anderem Set und Setting bleibt es eine starke Idee.  
 Ein guter Weg.  
 
